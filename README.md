@@ -7,8 +7,8 @@
 ```
 
 - 🌱 Agri-Tech
-- 🍓 IoT
 - ⚾️ Sabermetrics
 - 🧪 NeoVim
 - 📫 benodrew12@gmail.com
 - 🖥️ https://drewbeno.com
+- ✍️ https://wedgworth.dev
